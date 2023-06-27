@@ -1,2 +1,2 @@
-# e_learning-platform
+# elearning_platform
 Платформа онлайн-обучения с системой управления контента.
