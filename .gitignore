@@ -5,6 +5,8 @@ __pycache__/
 
 # add ignore
 users_data.txt
+.vscode/
+
 
 # C extensions
 *.so
